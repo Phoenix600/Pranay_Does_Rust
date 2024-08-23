@@ -1,0 +1,12 @@
+C:\Users\root\Desktop\Rust\hello-world\target\debug\deps\libahash-0dfe09bd0f85706a.rmeta: C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src/lib.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\convert.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\fallback_hash.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\operations.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\random_state.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\specialize.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\hash_map.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\hash_set.rs
+
+C:\Users\root\Desktop\Rust\hello-world\target\debug\deps\ahash-0dfe09bd0f85706a.d: C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src/lib.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\convert.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\fallback_hash.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\operations.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\random_state.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\specialize.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\hash_map.rs C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\hash_set.rs
+
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src/lib.rs:
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\convert.rs:
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\fallback_hash.rs:
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\operations.rs:
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\random_state.rs:
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\specialize.rs:
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\hash_map.rs:
+C:\Users\root\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ahash-0.8.11\src\hash_set.rs:
