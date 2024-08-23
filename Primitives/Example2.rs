@@ -17,7 +17,6 @@ fn main()
     let x4 = 2347283472849323423423237i128;
     println!("128Bit Signed Integer {:?}",x4);
 
-
     let u1:u8 = 126;
     println!("8Bit Unsigned Integer {0}",u1);
 
